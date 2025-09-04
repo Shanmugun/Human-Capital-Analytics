@@ -1,0 +1,16 @@
+ satisfaction_level last_evaluation  number_project  average_montly_hours time_spend_company work_accident
+ Min.   :0.0900     Min.   :0.3600   Min.   :2.000   Min.   : 96.0        Min.   : 2.000     no :12830    
+ 1st Qu.:0.4400     1st Qu.:0.5600   1st Qu.:3.000   1st Qu.:156.0        1st Qu.: 3.000     yes: 2169    
+ Median :0.6400     Median :0.7200   Median :4.000   Median :200.0        Median : 3.000                  
+ Mean   :0.6128     Mean   :0.7161   Mean   :3.803   Mean   :201.1        Mean   : 3.498                  
+ 3rd Qu.:0.8200     3rd Qu.:0.8700   3rd Qu.:5.000   3rd Qu.:245.0        3rd Qu.: 4.000                  
+ Max.   :1.0000     Max.   :1.0000   Max.   :7.000   Max.   :310.0        Max.   :10.000                  
+                                                                                                          
+  left       promotion_last_5years       department      salary    
+ no :11428   no :14680             sales      :4140   low   :7316  
+ yes: 3571   yes:  319             technical  :2720   medium:6446  
+                                   support    :2229   high  :1237  
+                                   IT         :1227                
+                                   product_mng: 902                
+                                   marketing  : 858                
+                                   (Other)    :2923                
